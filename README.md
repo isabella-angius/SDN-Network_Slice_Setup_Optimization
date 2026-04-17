@@ -9,7 +9,7 @@ This project implements a **network slicing and service migration** demo based o
 - **Docker-based services**
 
 The goal is to show how a controller can configure and update slice paths dynamically and how a northbound script can react to QoS degradation or to an environmental change (Link down).
-cia00
+
 ---
 
 ## Scenarios
